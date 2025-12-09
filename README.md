@@ -4,6 +4,15 @@
 💻 Passionate about Full-Stack Development, Computer Vision, and Cloud Technologies  
 🚀 Currently working on an AI-based Video Interpolation & Temple Exploration Web Application
 
+### 👋 Hi, I'm **Sakshi Manoorkar**
+
+I am a passionate **Full-Stack Developer and DevOps enthusiast** with a strong foundation in **React, Node.js, and AWS**. I love building user-focused applications and exploring **AI-powered and automation-driven solutions**.
+
+My recent work involves developing **interactive UI systems, computer vision applications, and scalable cloud deployments**.
+
+I enjoy solving real-world problems and creating meaningful digital experiences that blend **clean UI, performance, and innovation**.
+
+
 ---
 
 ### 🛠 Skills

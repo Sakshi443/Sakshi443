@@ -15,13 +15,6 @@
 
 ---
 
-### 📁 Experience
-
-- **Design Head, GDG on Campus (Sep 2024 – Present)**  
-  Led branding, UI decisions, and design guidelines for community events.
-
----
-
 ### 📌 Projects
 
 - **AI-Based Satellite Image Frame Interpolation**  
@@ -43,8 +36,9 @@
 ### 📬 Connect With Me
 
 📧 Email: **sakshimanoorkar@gmail.com**  
-🔗 LinkedIn: *Add link once ready*  
-💻 GitHub: **github.com/Sakshi443**
+🔗 LinkedIn: *[sakshi-manoorkar](http://www.linkedin.com/in/sakshi-manoorkar-458a43258)*  
+💻 GitHub: **[github.com/Sakshi443](https://github.com/Sakshi443)**
+
 
 ---
 
